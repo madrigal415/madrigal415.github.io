@@ -8,8 +8,13 @@ _Website to display projects_
 > Live to work 
 > Work to thrive
 
-#### Pages
-- lotto picker (idea phase)
-- it's a beautiful day to be rogelio (idea phase)
-- is it Friday (idea phase)
-- mac and cheese playing with API (idea phase)
+#### Completed Pages
+-- nothing... yet
+
+#### Page Ideas
+- lotto picker
+- it's a beautiful day to be Rogelio
+- is it Friday
+- mac and cheese playing with API
+- game of pong (from youtube tutorial)
+- game of tetris (from youtube tutorial)
