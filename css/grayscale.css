@@ -131,7 +131,7 @@ a:focus {
   text-align: center;
   color: white;
   /*background: url(../img/the-trees-unsplash.jpeg) no-repeat bottom center scroll;*/
-  background-color: black;
+  /*background-color:darkgray;*/
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
